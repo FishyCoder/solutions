@@ -77,7 +77,28 @@
 #|
 Enter your answers to the questions from the homework below:
 
+;Without any changes, does it seem that the game favors one type of roll? If so, what.
 
+The game favors odd rolls because the chances of you scoring a zero rolling even numbers is much higher. 2 chances of losing > 1 chance of losing
+
+
+
+Can you change that outcome by just changing the number of sides on the die? If so, how many sides did you change it to.
+
+no, changing the amount of even sides will make rolling evens give you a higher score, and will balance the fail value possibility. 
+But the amount of odd wins will still be greater than even wins because the evens number still has two fail values compared to odd having one. 
+
+
+
+Going back to a 12 sided die, can you change that outcome by just changing the fail values? If so, what values did you change it to?
+
+No because if both even and odd rolls are given the same number of fail values, evens will have an advantage because of the higher score per roll. 
+
+
+
+Modify whatever values you’d like, can you make the game fair (that is, neither even nor odd have a greater advantage). What values did you change?
+
+no because evens will always have a higher score per roll over a longer period of time. 
 
 
 
